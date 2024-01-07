@@ -1,0 +1,66 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 30,
+            "IconURL": "https://i.imgur.com/WNcMOBa.png",
+            "DisableIconText": true,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Witamy",
+                    "title1": "Przede wszystkim baw się dobrze!",
+                    "text1": "\nJesteśmy podekscytowani, że dołączysz do nas w tej epickiej podróży przez świat pełen niebezpieczeństw i przygód. W tym świecie będziesz musiał zbierać zasoby, wytwarzać przedmioty i budować schronienia, aby przetrwać różne wyzwania z którymi się spotkasz.\n\nPodczas eksploracji pięknych i różnorodnych światów Ark napotkasz wiele różnych stworzeń, zarówno przyjaznych, jak i wrogich. Będziesz musiał użyć swoich umiejętności i sprytu, aby oswoić, trenować i jeździć na tych stworzeniach, używać ich, aby mogły pomóc Ci w Twojej podróży.\n\n\nNasz serwer jest domem dla dobrze prosperującej społeczności graczy, którzy zawsze chętnie pomagają nowym graczom. Dołącz do nas na naszym serwerze Discord, aby być na bieżąco z najnowszymi wiadomościami i wydarzeniami.\n\n\n<TextStyle.Green>Czego możesz oczekiwać od naszej społeczności</>\n ● zawsze dostępne, aktualne serwery ze sprzętem najwyższej jakości,\n ● najciekawsze mody,\n ● zrównoważone ustawienia, chociaż czasami mamy też serwery z szalonymi ustawieniami,\n ● wsparcie ze strony administratora, pomocników społeczności i graczy,\n ● żadnych toksycznych zachowań,\n ● wpływ na rozwój serwerów dzięki kanałom sugestii i regularnym ankietom,\n ● i dużo więcej.\n\n\nDziękujemy, że zdecydowałeś się grać na naszym serwerze Ark. Mamy nadzieję, że spędzisz z nami przyjemne i satysfakcjonujące chwile\n<TextStyle.Green>SG</>",
+                    "imageurl": "https://i.imgur.com/S1H6Pgo.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Ważne Info",
+                    "title1": "To jest serwer PVE, więc traktujcie się nawzajem z szacunkiem.",
+                    "text1": "<TextStyle.Green>Skróty klawiszowe</>\n ● F1 WBUI INFO\n ● F3 VOTE - obecnie nie działa\n ● F4 REPORT - obecbie nie działa\n ● F6 RATE COMMUNITY - obecnie nie działa\n\nGracze na konsolach mogą wywołać <TextStyle.Green>menu</> przyciskami na padach <TextStyle.Green>X</> Xbox albo <TextStyle.Green>□</> na PS.\n\nZa oddanie głosu na serwer otrzymasz 200 tokenów, więcej mając Supporter Tiers. Pamiętajcie żeby użyć <TextStyle.Green>!Claim</> na kanale <TextStyle.Green>#bot-spam</> po oddaniu głosa.\n\n<TextStyle.Green>Decay settings:</>\n ● Słoma - 8 Dni  \n ● Drewno - 16 Dni  \n ● Kamień - 24 Dni  \n ● Metal - 32 Dni  \n ● Stworzenia - 16 Dni\n\nAby w pełni skorzystać z możliwości zbierania <TextStyle.Green>Tokenów</>, każdy nowy gracz powinien połączyć postać w grze z kontem na stronie sgservers.eu Po <TextStyle.Green>połączeniu swoich kont</>, tokeny otrzymane za głosowanie, czas spędzony w grze oraz te otrzymane w ramach Supporter Tiers zostaną automatycznie przypisane do Twojego konta.\n\nJeśli masz jakieś pytania, odwiedź discorda.",
+                    "imageurl": "https://i.imgur.com/S1H6Pgo.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Regulamin Serwera",
+                    "title1": "Oto zasady obowiązujące w tej społeczności:",
+                    "text1": "\n<TextStyle.Red>Insta-ban zostanie przyznany za:</>\n ● Wszelkie formy rasizmu, homofobii itp.\n ● Wszelkie formy hakowania/oszukiwania/wykorzystywania błędów gry.\n\n<TextStyle.Red>Zasady:</>\n ● Spraw, aby gra była przyjemna dla innych. Przypomnij o tym innym graczom.\n ● Pomagaj innym graczom!\n ● Nie blokuj dostępu do miejsc publicznych budynkami, wieżyczkami ani dinozaurami. Miejsca publiczne obejmują: ważne miejsca z zasobami (np. wulkan), punkty odrodzenia, obeliski i jaskinie artefaktów. Zrzuty i notatki Odkrywcy NIE są obszarami chronionymi. W razie wątpliwości prawdopodobnie obszar jest chroniony.\n ● Sprzątaj po sobie.\n ● Żadnego masowego zajmowania ziemi.\n ● Żadnego spamowania filarów/fundamentów.\n ● Żadnych ogromnych baz (kieruj się zdrowym rozsądkiem).\n ● Dozwolona jest 1 główna baza i 1 placówka wypadowa.\n ● Zakaz zabijania innych graczy.Gracze nie mogą zabijać ani atakować innych graczy, ich struktur ani oswojonych stworzeń.\n ● Gracze nie powinni angażować się w żadne zachowania, które celowo psują rozgrywkę innego gracza, takie jak budowanie struktur blokujących dostęp do zasobów, budowanie konstrukcji które uszkadzają konstrukcje innego gracza lub blokują innych graczy wraz z ich oswojonymi stworzeniami.\n ● Zakaz kradzieży: gracze nie mogą zabierać zasobów, przedmiotów ani stworzeń innym graczom bez ich zgody.\n ● Szanuj prywatność innych graczy: Gracze nie powinni wchodzić do baz innych graczy bez ich zgody. Gracze nie powinni także budować swoich struktur zbyt blisko bazy innego gracza, ponieważ może to spowodować problemy ze spawnami zasobów lub spawnami stworzeń.\n ● Zakaz nadmiernego rozmnażania stworzeń: Chociaż hodowla stworzeń jest dozwolona, gracze nie powinni nadmiernie rozmnażać ich, aby zapobiec przepełnieniu serwera .\n ● Zabrania się błagania o pomoc innych graczy, jeśli ktoś chce ci pomóc, sam ją zaoferuje.",
+                    "imageurl": "https://i.imgur.com/S1H6Pgo.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/survival-games-servers-966369584724709446"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Strona",
+                    "url": "https://sgservers.eu"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Połącz konta [EN]",
+                    "url": "https://sgservers.eu/page/82327-connect"
+                }
+            }
+        ]
+    }
+}
+
+
+ydkWHRJZ
