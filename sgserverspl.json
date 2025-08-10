@@ -1,40 +1,25 @@
 {
   "WBUI": {
-    "settings": {
-      "Icon": 1,
-      "OpenBtn": 0,
-      "HideBuff": true,
-      "HideAfter": 60,
-      "TribeTab": true,
-      "OpenOnStart": true,
-      "OnlyNewPlayers": true,
-      "UseJson": true,
-      "JsonURL": "https://example.com/ase-webui-flat.json",
-      "UpdateInterval": 24
-    },
     "tabs": [
       {
         "layout": 1,
         "buttontext": "Welcome",
-        "imageurl": "https://i.imgur.com/S1H6Pgo.png",
         "title1": "First of all, have a great time!",
         "text1": "<TextStyle.Green>We’re thrilled</> to have you with us on this epic journey.\nIn ARK you’ll gather resources, craft items, and build shelters to survive the challenges ahead.\n\nAs you explore the world, you’ll encounter many creatures—some friendly, some hostile. Tame and train them to turn them into valuable allies.\n\nOur server has a friendly, active community that’s happy to help new players. Join our Discord to stay up to date with news, events, and updates.",
         "title2": "<TextStyle.Green>What to expect</>",
-        "text2": "● Reliable, always‑online servers with solid hardware\n● Interesting, curated mods\n● Balanced settings (and the occasional crazy server for fun!)\n● Support from admins, helpers, and fellow players\n● Strictly non‑toxic environment\n● Real influence on server development via suggestions and polls\n\nThanks for choosing our ASA servers — <TextStyle.Green>have fun!</>"
+        "text2": "● Reliable, always-online servers with solid hardware\n● Interesting, curated mods\n● Balanced settings (and the occasional crazy server for fun!)\n● Support from admins, helpers, and fellow players\n● Strictly non-toxic environment\n● Real influence on server development via suggestions and polls\n\nThanks for choosing our ASA servers — <TextStyle.Green>have fun!</>"
       },
       {
         "layout": 1,
         "buttontext": "Important Info",
-        "imageurl": "https://i.imgur.com/S1H6Pgo.png",
         "title1": "This is a PvE server — be respectful.",
         "text1": "<TextStyle.Green>Keyboard shortcuts</>\n● F1 – WBUI INFO\n● F3 – VOTE\n● F4 – REPORT\n● F6 – RATE COMMUNITY\n\nConsole players can access <TextStyle.Green>function keys</> by holding <TextStyle.Green>X</> on Xbox or <TextStyle.Green>□</> on PlayStation.\n\nWhen you vote you’ll receive 200 tokens (more for Supporters!). Use <TextStyle.Green>!Claim</> in <TextStyle.Green>#bot-spam</> on Discord after voting.",
         "title2": "<TextStyle.Green>Decay</>",
-        "text2": "● Thatch – 4d\n● Wood – 8d\n● Stone – 12d\n● Metal – 16d\n● Creatures – 8d\n\nTo collect <TextStyle.Green>tokens</> properly, link your in‑game character with your website account. After <TextStyle.Green>connecting accounts</>, all tokens (voting, playtime, Supporter) will auto‑assign."
+        "text2": "● Thatch – 4d\n● Wood – 8d\n● Stone – 12d\n● Metal – 16d\n● Creatures – 8d\n\nTo collect <TextStyle.Green>tokens</> properly, link your in-game character with your website account. After <TextStyle.Green>connecting accounts</>, all tokens (voting, playtime, Supporter) will auto-assign."
       },
       {
         "layout": 1,
         "buttontext": "Server Rules",
-        "imageurl": "https://i.imgur.com/S1H6Pgo.png",
         "title1": "<TextStyle.Red>Instant bans</>",
         "text1": "● Racism, homophobia, or toxic harassment\n● Hacking, cheating, exploiting",
         "title2": "<TextStyle.Red>Rules</>",
@@ -42,23 +27,11 @@
       }
     ],
     "links": [
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/survival-games-servers-966369584724709446"
-      },
-      {
-        "text": "Website",
-        "url": "https://sgservers.eu/page/64046-home"
-      },
-      {
-        "text": "Shop",
-        "url": "https://sgservers.eu/shop"
-      },
-      {
-        "text": "Connect account",
-        "url": "https://sgservers.eu/page/82327-connect"
-      }
+      { "text": "Discord", "url": "https://discord.gg/survival-games-servers-966369584724709446" },
+      { "text": "Website", "url": "https://sgservers.eu/page/64046-home" },
+      { "text": "Shop", "url": "https://sgservers.eu/shop" },
+      { "text": "Connect account", "url": "https://sgservers.eu/page/82327-connect" }
     ],
-    "version": 1
+    "version": 2
   }
 }
